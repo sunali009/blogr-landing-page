@@ -1,0 +1,113 @@
+@media (max-width: 1199px){
+body{
+    font-size:px;
+}
+.rightside img {
+    object-position: 9% 63%;
+    height: 90%;
+    width: 100%;
+    padding-top: 3rem;
+}
+.rightside {
+    width: 100%;
+    /* height: 100vw; */
+}
+.sideparent{
+    padding:4rem 0rem;
+    width:100%;
+}
+.leftside {
+    padding: 0.9rem 0rem 4rem 3rem;
+    margin: 1rem 0rem 4rem 3rem;
+    width:100%;
+}
+.designed{
+    font-size: 2.3rem;
+    position: absolute;
+    top: 52px;
+    left: 31px;
+}
+.same {
+    /* letter-spacing: 0.03rem; */
+    width: 90%;
+}
+.bgimg{
+    clip-path: inset(-11% -20% 19% 0%);
+}
+.mobimg img {
+        width: 31rem;
+        top: -65px;
+        left: 240px;
+}
+.section31 {
+    height: 32rem;
+}
+img {
+    width: 100%;
+}
+.link img{
+    display:none;
+}
+.laptopimg img {
+    left: -148px;
+}
+.circle_image {
+    width: 100vh;
+}
+.mobile_image1 {
+    left: 55px;
+}
+.mobtext {
+    position: absolute;
+    left: 591px;
+    top: 130px;
+    width: 23%;
+}
+p.mobilep {
+    color: #fffffff5;
+    font-size: 0.8rem;
+}
+h2.mobilehead {
+    font-size: 1.5rem;
+}
+.linkcontainer2 {
+    margin-top: -0.9rem;
+}
+.up {
+    padding: 0.8rem 0.8rem;
+}
+.linkcontainer1 {
+    gap: 3rem;
+    padding-left: 1rem;
+}
+h1{
+    font-size:2.6rem;
+}
+h2 {
+    padding-top: 1.2rem;
+}
+.designed {
+    font-size: 2.1rem;
+    top: 36px;
+    left: 49px;
+}
+h2.class {
+    padding-top: 3rem;
+    margin-top: 4rem;
+}
+.footerparent {
+    padding: 4rem 2rem 3rem 0rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+}
